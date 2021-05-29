@@ -1,2 +1,3 @@
-# PYTHON PROJECTS
- This repository is to contain all my python projects
+# capstone project
+ This repository is to contain my first ever python project that is the capstone project
+ 
