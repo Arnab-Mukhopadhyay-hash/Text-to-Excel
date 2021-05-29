@@ -33,5 +33,5 @@ if __name__ == '__main__':
     key_list = ["name", "phone", "address"]
     data = txt_to_dict(key_list)
     print(data)
-    # dict_to_csv("Capstone.csv", key_list, data)
-    # csv_to_excel('Capstone.csv', 'Capstone.xlsx')
+    dict_to_csv("Capstone.csv", key_list, data)
+    csv_to_excel('Capstone.csv', 'Capstone.xlsx')
